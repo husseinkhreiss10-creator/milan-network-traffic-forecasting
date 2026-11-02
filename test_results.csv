@@ -1,0 +1,5 @@
+model,WAPE,median cell WAPE,WAPE of total (all sampled cells)
+LightGBM (global),0.1023,0.1017,0.0405
+Last week (same hour),0.1481,0.1352,0.0565
+3-week weekly profile,0.1519,0.1174,0.0634
+Yesterday (same hour),0.1578,0.1511,0.0745
